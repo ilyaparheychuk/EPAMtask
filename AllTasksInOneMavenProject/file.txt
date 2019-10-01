@@ -1,0 +1,29 @@
+**********************************************
+Files from main directory : D:\studyautomate\EPAM COURCE\Java\JavaTask\6JavaIOFubdamentals\Example
+**********************************************
+✉First✉
+	┃---1football.txt
+	┃---2basketball.txt
+	┃---3hockey.txt
+	┃---4box.txt
+
+✉Second✉
+	┃---1.txt
+	┃---2.txt
+	┃---3.txt
+	┃---4.txt
+	┃---5.txt
+	┃---6.txt
+	┃---7.txt
+
+✉Third✉
+	┃---1LinkinPark.txt
+	┃---2Blink182.txt
+	┃---3bringMeTheHorizont.txt
+	┃---4Rammstein.txt
+	┃---5RedHotChiliPeppers.txt
+
+Amount of Folder:  3
+Amount of File:  16
+Average number of files in the folder:  5
+Average length of the file name:  10
