@@ -1,0 +1,25 @@
+package by.epam.training.errorexception;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class University {
+
+    List<Faculty> facultys;
+
+    public University() {
+        this.facultys = new ArrayList<Faculty>();
+    }
+
+    public void addFaculty(Faculty faculty) {
+        facultys.add(faculty);
+    }
+
+    public List<Faculty> getFacultys() throws Exception {
+        if (facultys.size() == 0) {
+            throw new Exception("No facultys in University");
+        }
+        return facultys;
+    }
+}
+
